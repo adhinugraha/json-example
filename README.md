@@ -1,2 +1,2 @@
 # json-example
-Json examples for my example project
+Json examples for my example projects
