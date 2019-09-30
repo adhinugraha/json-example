@@ -10,20 +10,23 @@
     },
     "slides": [
         {
-            "text": "Usaha sampingan",
+            "title": "Rejeki Melimpah!",
+            "text": "Beli dengan harga grosir, jual dengan harga lebih tinggi. Raih penghasilan bulanan hingga puluhan juta rupiah!",
             "text_color": "#FFFFFF",
             "image": "https://s3.kora.id/assets/intro/1.png",
             "background_color": "#391b67"
     
         },
         {
-            "text": "Produk lengkap, berkualitas dan murah ",
+            "title": "Jualannya Mudah",
+            "text": "Harga produknya murah, jualan langsung dari hape, bisa langsung share katalog produkmu, dan tanpa perlu stok barang",
             "text_color": "#FFFFFF",
             "image": "https://s3.kora.id/assets/intro/2.png",
             "background_color": "#391b67"
         },
         {
-            "text": "Transaksi aman",
+            "title": "Gratis Ongkir",
+            "text": "Kamu juga bisa dapat gratis ongkir dengan belanja kebutuhan di Kora. Yuk mulai belanja sekarang!",
             "text_color": "#FFFFFF",
             "image": "https://s3.kora.id/assets/intro/3.png",
             "background_color": "#391b67"
