@@ -13,7 +13,7 @@
             "title": "Rejeki Melimpah!",
             "text": "Beli dengan harga grosir, jual dengan harga lebih tinggi. Raih penghasilan bulanan hingga puluhan juta rupiah!",
             "text_color": "#FFFFFF",
-            "image": "https://raw.githubusercontent.com/adhinugraha/json-example/master/img/1.png",
+            "image": "https://raw.githubusercontent.com/adhinugraha/json-example/master/img/1-2.png",
             "background_color": "#391b67"
     
         },
@@ -21,14 +21,14 @@
             "title": "Jualannya Mudah",
             "text": "Harga produknya murah, jualan langsung dari hape, bisa langsung share katalog produkmu, dan tanpa perlu stok barang",
             "text_color": "#FFFFFF",
-            "image": "https://raw.githubusercontent.com/adhinugraha/json-example/master/img/2.png",
+            "image": "https://raw.githubusercontent.com/adhinugraha/json-example/master/img/2-1.png",
             "background_color": "#391b67"
         },
         {
             "title": "Gratis Ongkir",
             "text": "Kamu juga bisa dapat gratis ongkir dengan belanja kebutuhan di Kora. Yuk mulai belanja sekarang!",
             "text_color": "#FFFFFF",
-            "image": "https://raw.githubusercontent.com/adhinugraha/json-example/master/img/3.png",
+            "image": "https://raw.githubusercontent.com/adhinugraha/json-example/master/img/3-1.png",
             "background_color": "#391b67"
         }
     ]
