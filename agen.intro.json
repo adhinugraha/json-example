@@ -1,0 +1,32 @@
+{
+    "config": {
+        "skip_label": "Lewati",
+        "done_label": "Selesai",
+        "next_label": "Lanjut",
+        "prev_label": "Kembali",
+        "button_text_color": "#FFFFFF",
+        "dot_color": "rgba(255, 255, 255, 0.7)",
+        "active_dot_color": "#FFFFFF"
+    },
+    "slides": [
+        {
+            "text": "Usaha sampingan",
+            "text_color": "#FFFFFF",
+            "image": "https://s3.kora.id/assets/intro/1.png",
+            "background_color": "#391b67"
+    
+        },
+        {
+            "text": "Produk lengkap, berkualitas dan murah ",
+            "text_color": "#FFFFFF",
+            "image": "https://s3.kora.id/assets/intro/2.png",
+            "background_color": "#391b67"
+        },
+        {
+            "text": "Transaksi aman",
+            "text_color": "#FFFFFF",
+            "image": "https://s3.kora.id/assets/intro/3.png",
+            "background_color": "#391b67"
+        }
+    ]
+}
